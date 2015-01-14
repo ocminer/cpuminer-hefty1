@@ -1,0 +1,29 @@
+commit initial (forked cpuminer-heavycoin)
+Author: brokkir
+Date:   April 6, 2014
+
+    Fork
+
+commit 05b11ebfe5886d4e9edf23a80b49589ffa421ff2
+Author: keccak512 <BM-NBuu8hBFdnqAeKs42Yg7nftB3QLfJ8ra>
+Date:   Wed Mar 19 17:49:48 2014 +0000
+
+    Bugfix for 1GH compatibility
+
+commit 5257b52b7acb2d7d2073309035281a669ce07072
+Author: Nomisugi <BM-NBAsCmCqUYR8eaXgs8zebDNPw5rUyM1z>
+Date:   Mon Mar 17 13:47:55 2014 +0000
+
+    Finished cpuminer implementation
+    
+      * Added stratum support
+      * Added compatability with 1GH
+      * Cleaned up code
+
+commit 5f78dbd7d6d17f9106414e7b072ed97fa4c1328d
+Author: keccak512 <BM-NBuu8hBFdnqAeKs42Yg7nftB3QLfJ8ra>
+Date:   Sat Mar 8 14:03:51 2014 +0000
+
+    WIP cpuminer fork
+
+See git repository ('git log') for full changelog.
